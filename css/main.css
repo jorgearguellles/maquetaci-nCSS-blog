@@ -106,9 +106,11 @@ nav .profile-link a {
 }
 
 .home-main .home-main-button {
-  width: 110px;
+  width: 150px;
   height: 50px;
   font-weight: bold;
+  font-size: 19px;
+  font-family: 'Roboto Mono', monospace;
   background-color: #47cfac;
   border: none;
   border-radius: 10px;
